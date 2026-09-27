@@ -63,7 +63,7 @@ The database contains information required for users, administration, books, bor
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/VimalJhonny/Library__Management.git
+git clone https://github.com/JaiRithik/Library__Management.git
 cd Library__Management
 ```
 
@@ -119,7 +119,7 @@ This project was developed as a practical implementation of programming, databas
 **Jai Rithik**
 
 GitHub:
-https://github.com/Jai_R
+https://github.com/JaiRithik
 
 ## Note
 

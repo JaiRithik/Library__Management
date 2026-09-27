@@ -1,6 +1,0 @@
-These files were extracted from Chapter 6 (SOURCE CODE) of:
-5 DOCUMENTATION.pdf
-
-The code is preserved from the PDF source. No functional fixes or security
-changes were intentionally applied during extraction. Review credentials and
-other sensitive values before publishing the files publicly.
